@@ -11,6 +11,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import sys
 
+plt.rcParams.update({'font.size': 22})
+
 import pickle
 
 NLARGEST=15
